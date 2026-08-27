@@ -1,6 +1,7 @@
 # 🚀 SpaceDrone-Simulator  
-
-### 2학기 pass 동아리 활동  
+--- 
+#### 2학기 pass 동아리 활동  
+---
 
 Java Class를 활용한 간단한 **우주 탐사 드론 시뮬레이터**
 
